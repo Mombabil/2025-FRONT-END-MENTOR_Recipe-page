@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Outfit";
+    src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: "YoungSerif";
+    src: url("./assets/fonts/young-serif/YoungSerif-Regular.ttf");
+}
+
+$mainTitle: #31302E;
+$paragraph: #545150;
+$categoriesTitle: #8A4A35;
+$preparationBg: #FFF7FC;
+$preparationTitle: #812D4F;
+
+body{
+    font-size: 18px;
+    box-sizing: border-box;
+    margin: 0;
+    background: #F3E5D8;
+}
